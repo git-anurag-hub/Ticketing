@@ -1,0 +1,16 @@
+[submodule "auth"]
+	path = auth
+	url = https://github.com/git-anurag-hub/auth-ticketing
+	branch = master
+[submodule "client"]
+	path = client
+	url = https://github.com/git-anurag-hub/client-ticketing
+	branch = master
+[submodule "common"]
+	path = common
+	url = https://github.com/git-anurag-hub/common-ticketing
+	branch = master
+[submodule "tickets"]
+	path = tickets
+	url = https://github.com/git-anurag-hub/tickets-ticketing
+	branch = master
